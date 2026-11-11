@@ -12,6 +12,11 @@ and downloads the newest version. Only the finished app is in this repository.
 
 ## Versions
 
+### 1.0.1 (2026-11-11)
+
+- New look: gray top bar and panels with light-blue highlights (theme "AP Gray Blue").
+  Other themes, Dark included, are still in Preferences > Appearance.
+
 ### 1.0.0 (2026-11-11)
 
 - The app is now called AP Cad/Cam.

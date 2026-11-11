@@ -1,7 +1,7 @@
 {
-  "tag_name": "v1.0.0",
-  "name": "AP Cad/Cam 1.0.0",
-  "body": "## AP Cad/Cam 1.0.0\n\n- The app is now called AP Cad/Cam.\n- New **Comment** button at the top right: send a Bug, a Feature request or an Improvement idea.\n- New **Update** button: it appears at the top when a newer version is on this page.\n- Includes all CAM work so far: tool library, mill and lathe setups, 2D and 3D milling, turning,\n  boring, grooving and threading, simulation, checked Haas and Fanuc posts.\n\nTest only: do not run its G-code on a machine until the machine settings are confirmed.\n",
+  "tag_name": "v1.0.1",
+  "name": "AP Cad/Cam 1.0.1",
+  "body": "## AP Cad/Cam 1.0.1\n\n- New look: gray top bar and panels with light-blue highlights (theme \"AP Gray Blue\").\n  Other themes, Dark included, are still in Preferences > Appearance.\n",
   "html_url": "https://github.com/chhada/ap-cadcam-updates",
   "draft": false,
   "prerelease": false,
@@ -9,7 +9,7 @@
     {
       "name": "ap-cadcam-windows-x64.zip",
       "browser_download_url": "https://raw.githubusercontent.com/chhada/ap-cadcam-updates/main/ap-cadcam-windows-x64.zip",
-      "size": 82915223
+      "size": 82923926
     },
     {
       "name": "SHA256SUMS.txt",
